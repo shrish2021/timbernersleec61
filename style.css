@@ -1,0 +1,44 @@
+html {
+    background-color: lightblue;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 250;
+    height: 275;
+    cursor: none;
+    border-color: dodgerblue;
+}
+
+.factsabouttim {
+    background-color: darkblue;
+    color: aqua;
+    cursor: none;
+}
+
+span {
+    font-style: oblique;
+}
+
+.line {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.appsandchatps {
+    font-size: 35px;
+    text-align: center;
+}
+
+.links {
+ font-size: 50px;
+    font-weight: bold;
+    color: blue;
+    background-color: aqua;
+    text-shadow: 3px 3px blue;
+    
+}
